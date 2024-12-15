@@ -1,0 +1,17 @@
+{
+  "name": "fivem-auth",
+  "version": "1.0.0",
+  "description": "FiveM Authentication for Scripts",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "moment": "^2.30.1",
+    "mysql": "^2.18.1"
+  }
+}

@@ -1,0 +1,9 @@
+{
+   "port": 3000,
+   "mysql": {
+      "host": "localhost",
+      "user": "root",
+      "password": "",
+      "database": "5m-auth"
+   }
+}
