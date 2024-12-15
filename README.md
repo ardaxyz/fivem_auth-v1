@@ -2,7 +2,6 @@
 
 🚀 » This is a FiveM Authentication System with JavaScript<br>
 🚀 » Included is the API and the DiscordBot<br>
-🚀 » This System is coded by myself<br>
 
 # 🔧 API Documentation
 
